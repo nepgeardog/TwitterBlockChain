@@ -10,7 +10,7 @@
 4. 在網址後加入 /followers, 例如 <https://twitter.com/nepgeardog_8964/followers>  
 5. 運行 Twitter Block Chain  
 > #### 注意！  
-> 如果不先點入賬戶界面再進入 followers 頁面, Twitter 有可能屏蔽你的瀏覽器. 如遇報錯, 請清楚瀏覽器 cookies.  
+> 如果不先點入賬戶界面再進入 followers 頁面, Twitter 有可能屏蔽你的瀏覽器. 如遇報錯, 請清除瀏覽器 cookies.  
 ### 方法2
 使用 BlockTogether.org 進行一鍵屏蔽: <https://blocktogether.org/show-blocks/j-j5fS3f9-n8AqD2viNzzZv8Dr7CBpSFMZn8GFTG>
 > #### 注意！  
