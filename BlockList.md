@@ -16,6 +16,7 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/twitter-block-chain/
 ><https://twitter.com/AmandaChen202/followers>  
 >###### 20191123 更新  
 ><https://twitter.com/Nuca12345/followers>  
+><https://twitter.com/deheng88/followers>
 
 >##### 低於1000 followers數目標  
 >###### 20191120 更新  
