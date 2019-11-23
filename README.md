@@ -8,7 +8,7 @@
 2. 打開 BlockList.md  
 3. 點入想引進的賬戶, 運行 Twitter Block Chain  
 ### 方法2
-使用 BlockTogether.org 進行一鍵屏蔽 <https://blocktogether.org/show-blocks/j-j5fS3f9-n8AqD2viNzzZv8Dr7CBpSFMZn8GFTG>
+使用 BlockTogether.org 進行一鍵屏蔽: <https://blocktogether.org/show-blocks/j-j5fS3f9-n8AqD2viNzzZv8Dr7CBpSFMZn8GFTG>
 > #### 注意！  
 > 此 block list 不保證100%準確性, 可能會有誤傷非粉紅/狗粉用戶情況發生. 爲保証安全, 建議使用方法1  
 ### 搞定! 
