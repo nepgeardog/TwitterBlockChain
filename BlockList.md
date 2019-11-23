@@ -10,7 +10,7 @@
 ><https://twitter.com/VoiceOfLiberty_/followers>  
 ><https://twitter.com/entropy_AHA/followers>  
 ><https://twitter.com/AmandaChen202/followers>  
->###### 20191123 更新  
+>### 20191123 更新  
 ><https://twitter.com/Nuca12345/followers>  
 ><https://twitter.com/deheng88/followers>
 
