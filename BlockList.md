@@ -48,4 +48,4 @@ Firefox: https://addons.mozilla.org/en-US/firefox/addon/twitter-block-chain/
 ><https://twitter.com/SafetyHongKong/followers>  
 
 >##### 有尊師特徵，慎用 Block Chain  
-><twitter.com/RealNaruto1010/followers>  
+><https://twitter.com/RealNaruto1010/followers>  
