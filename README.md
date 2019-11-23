@@ -1,6 +1,6 @@
 # TwitterBlockChain  
 
-## 如何使用此 repo  
+## 如何使用此 Repo  
 1. 下載 Twitter Block Chain 插件
     * Chrome: <https://chrome.google.com/webstore/detail/twitter-block-chain/dkkfampndkdnjffkleokegfnibnnjfah?hl=en>  
     * Firefox: <https://addons.mozilla.org/en-US/firefox/addon/twitter-block-chain/>  
