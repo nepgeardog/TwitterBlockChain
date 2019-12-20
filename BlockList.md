@@ -1,4 +1,4 @@
-## 極端危險飛碟
+## 飛碟
 ### 20191202 更新
 <https://twitter.com/ionwin0>
 
@@ -13,10 +13,19 @@
 <https://twitter.com/HK_Apple_Daily/followers>  
 <https://twitter.com/VoiceOfLiberty_/followers>  
 <https://twitter.com/entropy_AHA/followers>  
+新號：<https://twitter.com/halo_aha>
 <https://twitter.com/AmandaChen202/followers>  
 ### 20191123 更新  
 <https://twitter.com/Nuca12345/followers>  
 <https://twitter.com/deheng88/followers>
+### 20191220 更新
+<https://twitter.com/GlobalTimes_CN/followers>
+<https://twitter.com/1314CNMBCNNBBC/followers>
+<https://twitter.com/XinjiangCamp/followers>
+<https://twitter.com/freexoyo/followers>
+<https://twitter.com/Chinese_XU/followers>
+<https://twitter.com/CNNDBNews/followers>
+<https://twitter.com/WusiaAppleDaily/followers>
 
 ## 低於1000 followers數目標  
 ### 20191120 更新  
@@ -39,6 +48,8 @@
 <https://twitter.com/NewKouTimes/followers>  
 <https://twitter.com/Rfa_chniese/followers>  
 <https://twitter.com/jh7l9jxaesrvkkv/followers>  
+### 20191220 更新
+<https://twitter.com/diba_China/followers>
 
 ## 低於100 followers數目標  
 <https://twitter.com/XinSunxiaochuan/followers>  
