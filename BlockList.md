@@ -13,7 +13,7 @@
 <https://twitter.com/HK_Apple_Daily/followers>  
 <https://twitter.com/VoiceOfLiberty_/followers>  
 <https://twitter.com/entropy_AHA/followers>  
-新號：<https://twitter.com/halo_aha>
+新號：<https://twitter.com/halo_aha>  
 <https://twitter.com/AmandaChen202/followers>  
 ### 20191123 更新  
 <https://twitter.com/Nuca12345/followers>  
